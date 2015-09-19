@@ -1,0 +1,16 @@
+{
+  "name": "es6comp",
+  "version": "0.0.0",
+  "authors": [
+    "Andre Baltieri <andrebaltieri@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ]
+}
